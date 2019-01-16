@@ -1,2 +1,2 @@
 # tinyone
-practice day 9
+https://emamulhassan.github.io/tinyone/
